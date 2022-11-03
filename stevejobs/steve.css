@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    border: 3px solid blue;
+    color: darkblue;
+  }
+
+h2 {
+    text-align: center;
+    color: purple;
+  }
+  
+table,
+th,
+td {
+    border: 1px solid black;
+  }
+  
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+ol {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 150px;
+  }
+  
+h3 {
+    padding-left: 150px;
+  }
+  
+body p{
+    width: 90%;
+    margin-left: auto;
+}
+
+hr{
+    height: 3px;
+    border-width: 0;
+    color: blue;
+    background-color: blue;
+    width: 80%;
+    margin-left: auto;
+    
+}
